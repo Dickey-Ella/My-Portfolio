@@ -1,5 +1,5 @@
 Hello! Welcome to my Github Page! 
-My name is Ella Dickey and I am a junior Web developer. 
+My name is Ella Dickey and I am a Junior Web Developer. 
 
 The file "First Independent Project" was my first ever project I started working on outside of tutorials and things at around week two of teaching myself html and CSS.
 I wanted to truly learn and practice to lead with my intuition as soon as possible so this was me trying to figure everything out on my own. 
