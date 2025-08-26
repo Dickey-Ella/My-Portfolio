@@ -1,4 +1,4 @@
----- Hi, My name is Ella Dickey and I am a Junior Web Developer! ----
+👋 Hi, My name is Ella Dickey and I am a Junior Web Developer!
 
 I began working on My First Ever Solo HTML & CSS Project in may of this year. Ive found it so rewarding seeing the progress I have made in such short time.
 As Ive learned more over the past few months - built other projects, and just grown a lot more comfortable in HTML and CSS - 
