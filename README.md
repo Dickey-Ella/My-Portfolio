@@ -13,4 +13,4 @@ It is a major point however to to make it as responsive and accessible as I can,
 My portfolio will continue to change as I learn more, I want to tip my toe into some javascript soon. 
 But for now here is what my life has revolved around for the last few months <3
 
----- Ella ----
+-- Ella --
